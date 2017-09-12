@@ -34,5 +34,5 @@ CREATE TABLE subgenres (
     id INTEGER PRIMARY KEY,
     book_id INTEGER,
     character_id INTEGER
-  );  
+  );
   
